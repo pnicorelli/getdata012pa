@@ -16,4 +16,4 @@ The goal of this homework is to prepare tidy data that can be used for later ana
 6. exec `run_analysis("UCI HAR Dataset/")`
 
 ## more info
-- read the [CookBook](CodeBook.md)
+- read the [CodeBook](CodeBook.md)
